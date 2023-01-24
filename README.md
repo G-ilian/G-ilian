@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Ilian, seja bem-vindo(a) ao meu perfil!
 
-
-- 🌱 Estou atualmente aprendendo JavaScript
+- 👨‍🎓 Graduando do 9º período de engenharia de computação pelo Instituto Nacional de Telecomunicações - INATEL.
+- 🌱 Estou atualmente aprendendo Machine Learning
 - 📫 Você pode me encontrar atráves do meu email : gabriel.barboza@gec.inatel.br
 
 
